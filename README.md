@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="image.psd.png" width="600"/>
+</p>
+
 # Product_design_thinking
 ---
 
