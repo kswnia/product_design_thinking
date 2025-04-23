@@ -15,6 +15,18 @@
 
 From idea → polished prototype **in hours**, not weeks.
 
+#*OUTPUTS*
+-
+![outputs](output1.png)
+![outputs](output2.png)
+![outputs](output3.png)
+![outputs](output4.png)
+![outputs](output5.png)
+![outputs](output6.png)
+![outputs](output7.png)
+
+
+
 ---
 
 ##  Why Use This?
